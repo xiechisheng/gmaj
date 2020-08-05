@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48912691-72f0-4286-b626-cceee4914ad4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ErrorCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/ErrorCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/InfoManage.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/InfoManage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/RtspDevice.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/RtspDevice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/iotSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/iotSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmaj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gmaj/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmaj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gmaj/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gmaj$models.coverage" NAME="models Coverage Results" MODIFIED="1586943585960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/gmaj$mqtt_tests.coverage" NAME="mqtt_tests Coverage Results" MODIFIED="1587368421553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bDCaK2Nq51BvY7HYql1f4yz9xE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../123/mds" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xcs\Desktop\gmaj\business\gmaj\api\migrations" />
+      <recent name="C:\Users\xcs\Desktop\gmaj\business\gmaj\api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mqtt_tests">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="gmaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gmaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mqtt_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gmaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/mqtt_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gmaj" type="Python.DjangoServer" factoryName="Django server">
+      <module name="gmaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="gmaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.gmaj" />
+      <item itemvalue="Python.mqtt_tests" />
+      <item itemvalue="Python.models" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mqtt_tests" />
+        <item itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48912691-72f0-4286-b626-cceee4914ad4" name="Default Changelist" comment="" />
+      <created>1571276402333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571276402333</updated>
+      <workItem from="1588157357667" duration="1446000" />
+      <workItem from="1588209055086" duration="15638000" />
+      <workItem from="1588728188225" duration="4101000" />
+      <workItem from="1588813204617" duration="10055000" />
+      <workItem from="1588900142650" duration="9375000" />
+      <workItem from="1588987357363" duration="1246000" />
+      <workItem from="1589109955280" duration="2530000" />
+      <workItem from="1589159294121" duration="3641000" />
+      <workItem from="1589246590406" duration="3213000" />
+      <workItem from="1589267530145" duration="5084000" />
+      <workItem from="1589332316203" duration="22559000" />
+      <workItem from="1589418485292" duration="17729000" />
+      <workItem from="1589505196796" duration="22486000" />
+      <workItem from="1589679024994" duration="3793000" />
+      <workItem from="1589766863010" duration="4215000" />
+      <workItem from="1589850581596" duration="5656000" />
+      <workItem from="1590047007527" duration="2639000" />
+      <workItem from="1590110303569" duration="4654000" />
+      <workItem from="1590368817968" duration="1200000" />
+      <workItem from="1590455565601" duration="3231000" />
+      <workItem from="1590482435273" duration="3693000" />
+      <workItem from="1590541592867" duration="5772000" />
+      <workItem from="1590627840661" duration="6698000" />
+      <workItem from="1590714402925" duration="3236000" />
+      <workItem from="1591061194878" duration="2033000" />
+      <workItem from="1591167472115" duration="204000" />
+      <workItem from="1591241360445" duration="4583000" />
+      <workItem from="1591325123969" duration="2231000" />
+      <workItem from="1591588261882" duration="589000" />
+      <workItem from="1591607107962" duration="4424000" />
+      <workItem from="1591688653522" duration="4799000" />
+      <workItem from="1591751686045" duration="306000" />
+      <workItem from="1591752069988" duration="67000" />
+      <workItem from="1591752535477" duration="6203000" />
+      <workItem from="1591839045448" duration="7903000" />
+      <workItem from="1591924120749" duration="2453000" />
+      <workItem from="1592183044902" duration="586000" />
+      <workItem from="1592531179658" duration="1619000" />
+      <workItem from="1592787837312" duration="2496000" />
+      <workItem from="1592875962619" duration="4977000" />
+      <workItem from="1592961460721" duration="4540000" />
+      <workItem from="1593308130435" duration="7522000" />
+      <workItem from="1593393071762" duration="3652000" />
+      <workItem from="1593479368038" duration="3237000" />
+      <workItem from="1593583718445" duration="6745000" />
+      <workItem from="1593652627776" duration="15362000" />
+      <workItem from="1593738382117" duration="1753000" />
+      <workItem from="1593997837026" duration="4447000" />
+      <workItem from="1594015953717" duration="5459000" />
+      <workItem from="1594085856968" duration="16570000" />
+      <workItem from="1594170849148" duration="11029000" />
+      <workItem from="1594257432074" duration="12839000" />
+      <workItem from="1594343442903" duration="2869000" />
+      <workItem from="1594346563770" duration="13883000" />
+      <workItem from="1594371744790" duration="1931000" />
+      <workItem from="1594603552255" duration="8075000" />
+      <workItem from="1594689056195" duration="10009000" />
+      <workItem from="1594774907874" duration="3253000" />
+      <workItem from="1594862086740" duration="2410000" />
+      <workItem from="1594886025593" duration="2306000" />
+      <workItem from="1594947740022" duration="358000" />
+      <workItem from="1595207227272" duration="7750000" />
+      <workItem from="1595293667562" duration="13457000" />
+      <workItem from="1595382338346" duration="7538000" />
+      <workItem from="1595468325151" duration="3645000" />
+      <workItem from="1595552960762" duration="1192000" />
+      <workItem from="1595898519673" duration="3012000" />
+      <workItem from="1596071331788" duration="590000" />
+      <workItem from="1596157994676" duration="1190000" />
+      <workItem from="1596417490802" duration="30000" />
+      <workItem from="1596441345212" duration="1843000" />
+      <workItem from="1596505759352" duration="3896000" />
+      <workItem from="1596590481456" duration="617000" />
+      <workItem from="1596594281357" duration="1418000" />
+      <workItem from="1596596206883" duration="594000" />
+      <workItem from="1596598099635" duration="591000" />
+      <workItem from="1596598933453" duration="258000" />
+      <workItem from="1596610518738" duration="554000" />
+      <workItem from="1596611136179" duration="48000" />
+      <workItem from="1596611256456" duration="302000" />
+      <workItem from="1596611919342" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Deployment" timestamp="1596611408103">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Deployment/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596611408103" />
+    <state x="393" y="44" key="#Deployment/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1596611311909" />
+    <state x="-1384" y="165" key="#SSH_Configurations" timestamp="1593336839639">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1384" y="165" key="#SSH_Configurations/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1593336839639" />
+    <state x="526" y="192" key="FileChooserDialogImpl" timestamp="1596611365146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1595212916272" />
+    <state x="526" y="192" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1596611365146" />
+    <state x="328" y="15" key="SettingsEditor" timestamp="1596611008238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591167644508" />
+    <state x="328" y="15" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1596611008238" />
+    <state x="-1081" y="265" key="ftp.server.browser" timestamp="1588158217839">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1081" y="265" key="ftp.server.browser/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588158217839" />
+    <state x="588" y="288" key="publish.login" timestamp="1596611284915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1093" y="411" key="publish.login/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588157467094" />
+    <state x="588" y="288" key="publish.login/0.0.1366.728/-1920.0.1920.1040@0.0.1366.728" timestamp="1596611284915" />
+  </component>
+</project>

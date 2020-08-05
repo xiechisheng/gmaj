@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4b1b12bd-e0c7-4d0d-9b88-4a90ddce044a" name="gmaj" url="http://10.143.10.214">
+        <fileTransfer rootFolder="/root/workspace" accessType="SFTP" host="10.143.10.214" port="22" sshConfigId="07d486d3-2f38-4aae-9e50-355fe85e62c4" sshConfig="gmaj">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
